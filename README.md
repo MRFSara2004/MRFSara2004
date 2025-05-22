@@ -9,7 +9,7 @@ I'm a passionate **Software Engineering Student** with experience in **HTML,CSS 
 - 🌱 Currently learning: **Java,React,Node.js,MySQL**
 - 🔭 Working on: **Stargutter Website,trying to do front-end & back-end sysytem**
 - 🌍 Languages: **Sinhala,Tamil,English,HTML,CSS,Java,MySQL**
-- 📫 How to reach me: **s24013341@gmail.com,http://linkedin.com/in/sara-riflan-592b8b348**
+- 📫 How to reach me: **s24013341@ousl.lk,http://linkedin.com/in/sara-riflan-592b8b348**
 - ⚡ Fun fact: **I love reading tech blogs and dream of working abroad as a software engineer.**
 
 ## My Skills 🧠
